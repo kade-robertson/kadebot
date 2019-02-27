@@ -36,3 +36,7 @@ command.rss:
 
 command.todayfact:
   datfile: "xxxxx"
+
+command.google:
+  csekey: "xxxxx"
+  apikey: "xxxxx"
