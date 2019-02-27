@@ -46,7 +46,6 @@ class Google(CommandBase):
             'cx': self.csekey,
             'q': search,
             'num': 1,
-            'imgSize': 'large',
             'searchType': 'image'
         }
         query = requests.get('https://www.googleapis.com/customsearch/v1', params = searchparams).json()
