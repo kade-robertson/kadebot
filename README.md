@@ -1,3 +1,5 @@
+**this project is now in maintenance mode -- I will only be bugfixing, no new features will be added**
+
 # kadebot
 
 A Telegram chat bot, built in Python. This was not designed for mass-usage, rather you should host this yourself for a small number of chats. This was primarily designed around being used in one chat and some parts might not be able to scale as well. It was probably also not designed with good practices in mind, and there are absolutely no tests whatsoever.
