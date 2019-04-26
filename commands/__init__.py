@@ -11,6 +11,7 @@ from .populartimes import PopularTimes
 from .randomaww import RandomAww
 from .rss import RSS
 from .sonnetgen import SonnetGen
+from .ted import Ted
 from .todayfact import TodayFact
 from .translate import Translate
 from .urbandict import UrbanDictionary
@@ -35,6 +36,7 @@ __all__ = [
     'RandomAww',
     'RSS',
     'SonnetGen',
+    'Ted',
     'TodayFact',
     'Translate',
     'UrbanDictionary',
